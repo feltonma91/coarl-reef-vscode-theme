@@ -6,8 +6,13 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/feltonma91/coarl-reef-vscode-theme"
   },
+  "keywords": [
+    "theme",
+    "coarl",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.82.0"
   },
