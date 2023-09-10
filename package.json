@@ -1,0 +1,26 @@
+{
+  "name": "coral-reef",
+  "displayName": "coral-reef",
+  "description": "Dark Theme",
+  "publisher": "KinoServices",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "coral-reef",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coral-reef-color-theme.json"
+      }
+    ]
+  }
+}
